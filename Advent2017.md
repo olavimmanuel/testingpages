@@ -139,8 +139,8 @@ Adresse: <a href="https://goo.gl/maps/RyG7rw1kysx" target="_blank">Ågesenveien
             </a>
             <ul id="ui-toc" class="ui-toc-dropdown dropdown-menu" aria-labelledby="tocLabel">
                 <div class="toc" markdown="span">
-                    * this **unordered** seed list will be replaced by toc as unordered list
-                    {:toc}
+* this **unordered** seed list will be replaced by toc as unordered list
+{:toc}
                 </div>
                 <div class="toc-menu"><a class="expand-toggle" href="#">Expand all</a><a class="back-to-top" href="#">Back to top</a><a class="go-to-bottom" href="#">Go to bottom</a></div>
             </ul>
