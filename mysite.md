@@ -19,4 +19,12 @@ layout: default
 **markdown** works even *without* the markdown tag in the div! ;)
 </div>
 
+# Someting
+
+## for
+
+### the
+
+# TOC
+
 {% include mymarkdown.md %}
