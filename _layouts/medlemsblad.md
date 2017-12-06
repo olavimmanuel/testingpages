@@ -174,14 +174,16 @@ Adresse: <a href="https://goo.gl/maps/RyG7rw1kysx" target="_blank">Ågesenveien
             </a>
             <ul id="ui-toc" class="ui-toc-dropdown dropdown-menu" aria-labelledby="tocLabel">
                 <div class="toc" markdown="1">
-                    {% include toc.md %}
+                    * this unordered seed list will be replaced by toc as unordered list
+                    {:toc}
                 </div><div class="toc-menu"><a class="expand-toggle" href="#">Expand all</a><a class="back-to-top" href="#">Back to top</a><a class="go-to-bottom" href="#">Go to bottom</a></div>
             </ul>
         </div>
     </div>
     <div id="ui-toc-affix" class="ui-affix-toc ui-toc-dropdown unselectable hidden-print" data-spy="affix" style="top:17px;display:none;" lang="nb-no" dir="ltr">
         <div class="toc" markdown="1">
-            {% include toc.md %}
+            * this unordered seed list will be replaced by toc as unordered list
+            {:toc}
         </div><div class="toc-menu"><a class="expand-toggle" href="#">Expand all</a><a class="back-to-top" href="#">Back to top</a><a class="go-to-bottom" href="#">Go to bottom</a></div>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
