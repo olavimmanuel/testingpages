@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 name: Kristensamfunnets menighet i Stavanger
 markdown: kramdown
-kramdown:
+kramdown: 
   parse_block_html: true
+  input: GFM
