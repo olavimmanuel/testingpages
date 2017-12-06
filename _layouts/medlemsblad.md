@@ -174,7 +174,7 @@ Adresse: <a href="https://goo.gl/maps/RyG7rw1kysx" target="_blank">Ågesenveien
                 <i class="fa fa-bars"></i>
             </a>
             <ul id="ui-toc" class="ui-toc-dropdown dropdown-menu" aria-labelledby="tocLabel">
-                <div class="toc" markdown="1">
+                <div class="toc" markdown="span">
                     * this **unordered** seed list will be replaced by toc as unordered list
                     {:toc}
                 </div><div class="toc-menu"><a class="expand-toggle" href="#">Expand all</a><a class="back-to-top" href="#">Back to top</a><a class="go-to-bottom" href="#">Go to bottom</a></div>
@@ -182,7 +182,7 @@ Adresse: <a href="https://goo.gl/maps/RyG7rw1kysx" target="_blank">Ågesenveien
         </div>
     </div>
     <div id="ui-toc-affix" class="ui-affix-toc ui-toc-dropdown unselectable hidden-print" data-spy="affix" style="top:17px;display:none;" lang="nb-no" dir="ltr">
-        <div class="toc" markdown="1">
+        <div class="toc" markdown="span">
             * this **unordered** seed list will be replaced by toc as unordered list
             {:toc}
         </div><div class="toc-menu"><a class="expand-toggle" href="#">Expand all</a><a class="back-to-top" href="#">Back to top</a><a class="go-to-bottom" href="#">Go to bottom</a></div>
