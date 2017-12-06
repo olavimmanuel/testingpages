@@ -2,6 +2,8 @@
 layout: medlemsblad
 ---
 
+{::options parse_block_html="true" /}
+
 <div id="doc" class="markdown-body container-fluid" lang="nb-no" dir="ltr" style="position: relative;"><p><img src="http://cloud.lite.as/index.php/s/V63XqsUtQMLuZnM/download?path=%2F&amp;files=K2xtrbc.png&amp;downloadStartSecret=8ishyoxy2sg" alt=""></p><p><em>Uoffisielt medlemsblad og program for menigheten i Stavanger<br>
 – uavhengig distribuert av et <!--frittstående -->menighetsmedlem</em></p><h1 id="kristensamfunnet-i-stavanger"><a class="anchor hidden-xs" href="#kristensamfunnet-i-stavanger" title="kristensamfunnet-i-stavanger"><span class="octicon octicon-link"></span></a>Kristensamfunnet i Stavanger</h1><p>Ågesentunet på Hillevåg<br>
 <a href="https://goo.gl/maps/RyG7rw1kysx" target="_blank">Ågesenveien 6, 4016 Stavanger</a></p><h2 id="advent-2017"><a class="anchor hidden-xs" href="#advent-2017" title="advent-2017"><span class="octicon octicon-link"></span></a>Advent 2017</h2><h3 id="menneskevielsens-handling"><a class="anchor hidden-xs" href="#menneskevielsens-handling" title="menneskevielsens-handling"><span class="octicon octicon-link"></span></a>Menneskevielsens handling</h3><p>Lørdag 2. desember kl. 10:00<br>
@@ -136,18 +138,16 @@ Adresse: <a href="https://goo.gl/maps/RyG7rw1kysx" target="_blank">Ågesenveien
                 <i class="fa fa-bars"></i>
             </a>
             <ul id="ui-toc" class="ui-toc-dropdown dropdown-menu" aria-labelledby="tocLabel">
-            {::options parse_block_html="true" /}
                 <div class="toc" markdown="span">
                     * this **unordered** seed list will be replaced by toc as unordered list
                     {:toc}
                 </div>
-                {::options parse_block_html="false" /}
                 <div class="toc-menu"><a class="expand-toggle" href="#">Expand all</a><a class="back-to-top" href="#">Back to top</a><a class="go-to-bottom" href="#">Go to bottom</a></div>
             </ul>
         </div>
     </div>
     <div id="ui-toc-affix" class="ui-affix-toc ui-toc-dropdown unselectable hidden-print" data-spy="affix" style="top:17px;display:none;" lang="nb-no" dir="ltr">
-        <div class="toc" markdown="block">
+        <div class="toc" markdown="span">
 * this **unordered** seed list will be replaced by toc as unordered list
 {:toc}
         </div><div class="toc-menu"><a class="expand-toggle" href="#">Expand all</a><a class="back-to-top" href="#">Back to top</a><a class="go-to-bottom" href="#">Go to bottom</a></div>
