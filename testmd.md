@@ -9,7 +9,7 @@ tags: program, community, christengemeinschaft, Stavanger
 layout: medlemsblad
 ---
 
-![image](http://cloud.lite.as/index.php/s/V63XqsUtQMLuZnM/download?path=%2F&files=K2xtrbc.png&downloadStartSecret=8ishyoxy2sg)
+![](http://cloud.lite.as/index.php/s/V63XqsUtQMLuZnM/download?path=%2F&files=K2xtrbc.png&downloadStartSecret=8ishyoxy2sg)
 
 *Uoffisielt medlemsblad og program for menigheten i Stavanger
 -- uavhengig distribuert av et <!--frittstående -->menighetsmedlem*
