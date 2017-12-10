@@ -25,7 +25,7 @@ layout: medlemsblad
 
 ### Menneskevielsens handling
 
-Lørdag 2. desember kl. 10:00
+Lørdag 2. desember kl. 10:00  
 Søndag 3. desember kl. 11:00
 
 
