@@ -17,7 +17,7 @@ layout: medlemsblad
 
 # Kristensamfunnet i Stavanger
 
-Ågesentunet på Hillevåg
+Ågesentunet på Hillevåg  
 [Ågesenveien 6, 4016 Stavanger](https://goo.gl/maps/RyG7rw1kysx)
 
 
@@ -31,7 +31,7 @@ Søndag 3. desember kl. 11:00
 
 ### Søndagshandling for barn
 
-Søndag 3. desember kl. 12:00
+Søndag 3. desember kl. 12:00  
 *Vennligst gi beskjed om barn som skal delta til [Tonje Øgård](#ra%CC%8Adsmedlemmer), kvelden i forveien.*
 
 
@@ -52,22 +52,23 @@ Søndag 3. desember kl. 12:00
 
 #### Fredag 1. desember
 
-Kl. 18:00 Vi setter rommet i stand
+Kl. 18:00 Vi setter rommet i stand  
 Kl. 19:00 Stille time
 
 
 #### Lørdag 2. desember
 
-Kl. 10:00 Menneskevielsens handling
-Kl. 11:00 Kaffe
-Kl. 11:30 «Maria - Guds Moder» *-- betraktning til advent ved Siri*
+Kl. 10:00 Menneskevielsens handling  
+Kl. 11:00 Kaffe  
+Kl. 11:30 «Maria - Guds Moder» *-- betraktning til advent ved Siri*  
 Kl. 12:30 Menighetsrådsmøte
 
 
 #### Søndag 3. desember
-Kl. 11:00 Menneskevielsens handling
-Kl. 12:00 Søndagshandling for barn
-Kl. 12:15 Adventspiral for barn i alle aldre
+
+Kl. 11:00 Menneskevielsens handling  
+Kl. 12:00 Søndagshandling for barn  
+Kl. 12:15 Adventspiral for barn i alle aldre  
 Kirkekaffe
 
 
@@ -88,14 +89,15 @@ Kirkekaffe
 
 ### Bønnegruppe
 
-￼Bønnegruppen møtes ca. annenhver uke.
+￼Bønnegruppen møtes ca. annenhver uke.  
 Ønsker du å være med kan du kontakte Tonje ([41365208](tel://+4741365208)), Astrid ([45049825](tel://+4745049825)) eller Inger Elise ￼([45487060](tel://+4745487060)).
 
 
 ### Hva skjer og hva gjør vi?
+
 …utenom *-- Aktiviteter vi går på og ting vi anbefaler*
 
-- **«Vokaleriet» synger i Bispekapellet, Søndag 3. desember kl. 17:00**
+- **«Vokaleriet» synger i Bispekapellet, Søndag 3. desember kl. 17:00**  
 *Vokaleriet er Steinerskolen i Stavangers foreldre/lærerkor. Det er åpent for alle, øver hver torsdag og deler noen medlemmer med menigheten.*
 
 
@@ -139,14 +141,14 @@ Kirkekaffe
 
 ### Organisasjon
 
-[KRISTENSAMFUNNET I STAVANGER](http://stavanger.kristensamfunnet.no/program)
-Organisasjonsnummer: [996 821 137](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=996821137)
+[KRISTENSAMFUNNET I STAVANGER](http://stavanger.kristensamfunnet.no)  
+Organisasjonsnummer: [996 821 137](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=996821137)  
 Bankkonto: 1254 05 06769
 
 
 ### Lokale
 
-Aktivitetene foregår på Ågesentunet på Hillevåg
+Aktivitetene foregår på Ågesentunet på Hillevåg  
 Adresse: [Ågesenveien 6, 4016 Stavanger](https://goo.gl/maps/RyG7rw1kysx)
 
 <!--iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d514.5196941286289!2d5.73899252927424!3d58.94686959884542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xccf3be58ae575fe3!2sSkipper+Worse+%C3%85gesentunet!5e0!3m2!1sno!2sno!4v1510926017881" height="400" frameborder="0" style="border:0; width:100%;" allowfullscreen></iframe-->
