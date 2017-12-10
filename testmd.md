@@ -11,7 +11,7 @@ layout: medlemsblad
 
 ![Kristensamfunnet - Bevegelse for religiøs fornyelse](./images/Asset%2062xtrbc.png)
 
-*Uoffisielt medlemsblad og program for menigheten i Stavanger
+*Uoffisielt medlemsblad og program for menigheten i Stavanger  
 -- uavhengig distribuert av et <!--frittstående -->menighetsmedlem*
 
 
